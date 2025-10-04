@@ -8,8 +8,11 @@
 
 <h3>Backend</h3>
 
+<p align="left">
+          
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" height=50  />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" height=50 />
+</p>
           
 
 
