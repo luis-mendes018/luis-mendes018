@@ -52,6 +52,10 @@
 <hr>
 
 <br>
+<h3>Versionamento de código</h3>
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height=50/>          
+</p>
 
 <h2>⚙️ My Git hub status</h2>
 
