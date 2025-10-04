@@ -46,7 +46,8 @@
 <hr>
 <p align="left>
    
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height=50 />
+   <img width="119" height="99" alt="image" src="https://github.com/user-attachments/assets/13f3b0d0-34e6-4264-a66b-333576122bd3" />
+
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" height=50 />
 </p>
 
