@@ -49,11 +49,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nuget/nuget-original.svg" height=50 />
           
 </p>
-
 <hr>
 
-
-
-
-
-
+<br>
