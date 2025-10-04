@@ -1,4 +1,8 @@
-## Hi there 👋
+<h1>*Quem sou eu*</h1>
+
+<p>Me chamo Luis Felipe e trabalho com desenvolvimento de sistemas há aproximadamente 5 anos. Gosto muito de aprender diversas tecnologias e transformar ideias e produtos em softwares.</p>
+
+
 
 <!--
 **luis-mendes018/luis-mendes018** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
