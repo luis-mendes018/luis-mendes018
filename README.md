@@ -53,15 +53,11 @@
 
 <br>
 
-<h2>⚙️ Git hub status</h2>
+<h2>⚙️ My Git hub status</h2>
 
-<p>
-  ![Luis GitHub stats](https://github-readme-stats.vercel.app/api?username=luis-mendes&show_icons=true&theme=tokyonight)
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luis-mendes018&layout=compact&theme=radical)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=luis-mendes018&theme=radical)
+<p align="left">
+<img width="530em" src="https://github-readme-stats.vercel.app/api?username=DarkSith-dev&show_icons=true&theme=vision-friendly-dark" alt="maykbrito's stats"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarkSith-dev&layout=compact&theme=vision-friendly-dark" alt="DarkSith-dev's most languages"/>
 </p>
 
 
