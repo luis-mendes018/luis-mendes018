@@ -49,11 +49,11 @@
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" height=50 />
 </p>
 
+<hr>
+
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height=50 />
 </p>
-<hr>
-
 
 
 
