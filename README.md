@@ -1,4 +1,4 @@
-<h1>*Quem sou eu*</h1>
+<h1>Quem sou eu 👩🏿‍💻</h1>
 
 <p>Me chamo Luis Felipe e trabalho com desenvolvimento de sistemas há aproximadamente 5 anos. Gosto muito de aprender diversas tecnologias e transformar ideias e produtos em softwares.</p>
 
