@@ -41,14 +41,11 @@
 <hr>
           
 <br>
-   <img width="119" height="99" alt="image" src="https://github.com/user-attachments/assets/13f3b0d0-34e6-4264-a66b-333576122bd3" />
-
 <h3>🛠️IDEs e ferramentas mais utilizadas</h3>
 <hr>
-<p align="left>
-   
-
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" height=50 />
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="40" height="40"/>
 </p>
 
 <hr>
