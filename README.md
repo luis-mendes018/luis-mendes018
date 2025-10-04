@@ -30,7 +30,14 @@
 </p>
 <hr>
 
-<h3></h3>
+<h3>Banco de dados relacionais</h3>
+
+<hr>
+<p align="left">
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" height=50 /> 
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" height=50 />       
+</p>
+<hr>
           
 
 
