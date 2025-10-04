@@ -2,6 +2,8 @@
 
 <p>Me chamo Luis Felipe e trabalho com desenvolvimento de sistemas há aproximadamente 5 anos. Gosto muito de aprender diversas tecnologias e transformar ideias e produtos em softwares.</p>
 
+<h2>🛠 Hard skills</h2>
+
 
 
 <!--
