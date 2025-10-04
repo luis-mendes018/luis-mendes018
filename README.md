@@ -56,8 +56,7 @@
 <h2>⚙️ My Git hub status</h2>
 
 <p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=luis-mendes018&show_icons=true&theme=vision-friendly-dark" alt="maykbrito's stats"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luis-mendes018&layout=compact&theme=vision-friendly-dark" alt="Luis's most languages"/>
+   ![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=luis-mendes018&theme=dark)
 </p>
 
 
