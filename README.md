@@ -82,5 +82,7 @@
 <h2>Onde você pode me encontrar🛜</h2>
 
 <p align="left">
-  [<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='Linkedin' height='30'>](https://www.linkedin.com/in/luis-felipe-mendes-de-souza-524a5b258/)
+ <a href="https://www.linkedin.com/in/luis-felipe-mendes-de-souza-524a5b258/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="30"/>
+  </a>
 </p>
