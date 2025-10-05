@@ -65,4 +65,23 @@
    <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luis-mendes018&theme=dark" />
 </p>
 
+<br>
 
+<h2>Projetos em destaque</h2>
+<br>
+<hr>
+<p align="left">
+  <img width="507" height="492" alt="logo_ns_sem_fundo" src="https://github.com/user-attachments/assets/230b3885-4da5-48d2-80d6-728a03af23cd" />
+  <img width="292" height="402" alt="DonationLogo" src="https://github.com/user-attachments/assets/1f332aed-823f-4967-93e4-bc90c44f0c16" />
+![Logo_CriativeMultiKoisas](https://github.com/user-attachments/assets/c4365e79-6bc4-463c-8661-645135f06c4e)
+
+
+</p>
+
+<hr>
+
+<h2>Onde você pode me encontrar🛜</h2>
+
+<p align="left">
+  
+</p>
