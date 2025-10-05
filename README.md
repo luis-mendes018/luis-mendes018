@@ -71,7 +71,7 @@
 <br>
 <hr>
 <p align="left">
-  <img width="60" height="80" alt="logo_ns_sem_fundo" src="https://github.com/user-attachments/assets/230b3885-4da5-48d2-80d6-728a03af23cd" />
+  <img width="60" height="100" alt="logo_ns_sem_fundo" src="https://github.com/user-attachments/assets/230b3885-4da5-48d2-80d6-728a03af23cd" />
   <img width="60" height="80" alt="DonationLogo" src="https://github.com/user-attachments/assets/1f332aed-823f-4967-93e4-bc90c44f0c16" />
   <img width="60" height="80" alt="image" src="https://github.com/user-attachments/assets/abe6083d-2629-43f1-aa86-a15e090b434c" />
 </p>
