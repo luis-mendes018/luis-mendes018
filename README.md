@@ -70,11 +70,7 @@
 <p align="left">
   
 ## 💻 Tecnologias que uso com mais frequência
-![C#](https://img.shields.io/badge/C%23-68217A?style=for-the-badge)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
+![Top Linguagens GitHub](https://uuphoria.github.io/github-readme-statsfork/api/top-langs/?username=luis-mendes018&langs_count=5&layout=compact)
 
 </p>
 
