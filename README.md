@@ -69,10 +69,11 @@
 
 <p align="left">
   
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=radical&count_private=true)
+  
 
   
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=radical)
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=SEU_USUARIO&theme=github)
+
 
 
 
