@@ -69,9 +69,11 @@
 
 <p align="left">
   
-  ![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=luis-mendes018)
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=radical&count_private=true)
+
   
-![Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=luis-mendes018)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=radical)
+
 
 
 </p>
