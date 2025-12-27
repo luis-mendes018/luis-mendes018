@@ -69,16 +69,12 @@
 
 <p align="left">
   
-  
-
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=luis-mendes018&show_icons=true&theme=dark)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=luis-mendes018&theme=dark)
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=luis-mendesd018&theme=dark)
-
-
-
-
+## 💻 Tecnologias que uso com mais frequência
+![C#](https://img.shields.io/badge/C%23-68217A?style=for-the-badge)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
 
 </p>
 
