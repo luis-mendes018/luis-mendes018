@@ -70,7 +70,8 @@
 <p align="left">
   
 ## 💻 Tecnologias que uso com mais frequência
-![Top Linguagens GitHub](https://uuphoria.github.io/github-readme-statsfork/api/top-langs/?username=luis-mendes018&langs_count=5&layout=compact)
+![Top Linguagens GitHub](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=luis-mendes018&layout=donut&langs_count=5)
+
 
 </p>
 
