@@ -68,9 +68,11 @@
 <h2>⚙️ My Git hub status</h2>
 
 <p align="left">
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=luis-mendes018&show_icons=true)
   
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luis-mendes018&layout=compact)
+  ![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=luis-mendes018)
+  
+![Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=luis-mendes018)
+
 
 </p>
 
