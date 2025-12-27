@@ -68,7 +68,10 @@
 <h2>⚙️ My Git hub status</h2>
 
 <p align="left">
-   <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luis-mendes018&theme=dark" />
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=luis-mendes018&show_icons=true)
+  
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luis-mendes018&layout=compact)
+
 </p>
 
 <br>
