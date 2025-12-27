@@ -72,7 +72,10 @@
   
 
   
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=SEU_USUARIO&theme=github)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=luis-mendes018&show_icons=true&theme=dark)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=luis-mendes018&theme=dark)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=luis-mendesd018&theme=dark)
+
 
 
 
