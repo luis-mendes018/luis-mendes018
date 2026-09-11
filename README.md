@@ -64,7 +64,6 @@
 <hr>
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height=50/>
-  <img src="https://camo.githubusercontent.com/17a3cfebe6cf2dcf7b339b7b008adb9a55ddc15aec622a27a2a66b207e1e357a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769744875622d3130303030303f7374796c653d666f722d7468652d6261646765266c6f676f3d676974687562266c6f676f436f6c6f723d7768697465" height=50/>
 </p>
 <hr>
 
@@ -72,7 +71,7 @@
 
 <p align="left">
   
-## 💻 Tecnologias que uso com mais frequência
+## 💻Technologies I use most frequently
 ![Top Linguagens GitHub](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=luis-mendes018&layout=donut&langs_count=5)
 
 
