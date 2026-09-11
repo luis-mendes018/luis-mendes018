@@ -1,6 +1,6 @@
-<h1>Quem sou eu 👨🏿‍💻</h1>
+<h1>Who am I 👨🏿‍💻</h1>
 
-<p>Me chamo Luis Felipe e trabalho com desenvolvimento de sistemas há aproximadamente 5 anos. Gosto muito de aprender diversas tecnologias e transformar ideias e produtos em softwares.</p>
+<p>My name is Luis Felipe, and I have been working in systems development for about five years. I really enjoy learning various technologies and transforming ideas and products into software.</p>
 <br>
 
 <h2>🛠 Hard skills</h2>
@@ -31,7 +31,7 @@
 <hr>
 
 <br>
-<h3>Banco de dados relacionais</h3>
+<h3>Relational databases</h3>
 
 <hr>
 <p align="left">
@@ -41,7 +41,7 @@
 <hr>
           
 <br>
-<h3>🛠️IDEs e ferramentas mais utilizadas</h3>
+<h3>🛠️Most widely used IDEs and tools</h3>
 <hr>
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" width="40" height="40"/>
@@ -57,7 +57,7 @@
 <hr>
 
 <br>
-<h3>Versionamento de código</h3>
+<h3>Code versioning</h3>
 <hr>
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height=50/>
@@ -77,21 +77,21 @@
 
 <br>
 
-<h2>Projetos em destaque</h2>
+<h2>Featured projects</h2>
 <br>
 <hr>
 <p align="left">
-  <img width="60" height="200" alt="logo_ns_sem_fundo" src="https://github.com/user-attachments/assets/230b3885-4da5-48d2-80d6-728a03af23cd" />
+  <img width="200" height="200" alt="logo_ns_sem_fundo" src="https://github.com/user-attachments/assets/230b3885-4da5-48d2-80d6-728a03af23cd" />
   <img width="60" height="80" alt="DonationLogo" src="https://github.com/user-attachments/assets/1f332aed-823f-4967-93e4-bc90c44f0c16" />
   <img width="60" height="80" alt="image" src="https://github.com/user-attachments/assets/abe6083d-2629-43f1-aa86-a15e090b434c" />
 </p>
 
 <hr>
 
-<h2>Onde você pode me encontrar🛜</h2>
+<h2>Where you can find me🛜</h2>
 
 <p align="left">
- <a href="https://www.linkedin.com/in/luis-felipe-mendes-de-souza-524a5b258/" target="_blank">
+ <a href="https://www.linkedin.com/in/luismendeslf/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="30"/>
   </a>
 </p>
